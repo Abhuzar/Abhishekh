@@ -1,0 +1,6 @@
+{
+  "name": "HomeCraft",
+  "description": "Three-part home trade directory to explore house plumbers, browse skilled carpenters, and directly contact electricians.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

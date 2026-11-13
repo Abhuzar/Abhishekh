@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HomeCraft</string>
+    <string name="tab_plumber">Plumber</string>
+    <string name="tab_carpenter">Carpenter</string>
+    <string name="tab_electrician">Electrician</string>
+    <string name="part_one_label">Part 1 • House Plumbing</string>
+    <string name="part_two_label">Part 2 • Carpentry</string>
+    <string name="part_three_label">Part 3 • Contact Electrician</string>
+    <string name="plumber_hero_title">House Plumbing Specialists</string>
+    <string name="plumber_hero_subtitle">Verified plumbers for leaks, pipework, kitchen &amp; bath repairs.</string>
+    <string name="carpenter_hero_title">Master Carpenters &amp; Woodwork</string>
+    <string name="carpenter_hero_subtitle">Custom cabinetry, doors, timber repairs, and fitted interiors.</string>
+    <string name="electrician_hero_title">Contact an Electrician</string>
+    <string name="electrician_hero_subtitle">Instant call, SMS, email &amp; 24/7 urgent dispatch requests.</string>
+    <string name="search_plumber_hint">Search plumber or house work…</string>
+    <string name="search_carpenter_hint">Search carpenter or woodwork…</string>
+    <string name="search_electrician_hint">Search electrician or wiring issue…</string>
+    <string name="action_call">Call</string>
+    <string name="action_sms">SMS</string>
+    <string name="action_email">Email</string>
+    <string name="action_view_details">Details</string>
+    <string name="action_request_callback">Request Callback</string>
+    <string name="action_send_request">Send Contact Request</string>
+    <string name="no_results_title">No matching specialists</string>
+    <string name="no_results_subtitle">Try clearing your search or selecting a different house task filter.</string>
+</resources>
